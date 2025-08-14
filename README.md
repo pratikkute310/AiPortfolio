@@ -1,9 +1,6 @@
-![image](assets/readme-photo.png)
- 
-# World's first AI portfolio 🤖✨  
 
 **Static portfolios are dead.**  
-So I built [toukoum.fr](https://toukoum.fr).
+So I built [pratikkute.vercel.app](https://pratikkute.vercel.app/).
 
 Instead of making you scroll endlessly, my portfolio adapts to *you*.  
 Ask a question — my AI avatar replies instantly.
@@ -19,7 +16,7 @@ Ask a question — my AI avatar replies instantly.
 This is not a portfolio.  
 It’s a **conversation tailored to your curiosity**.
 
-➡️ **Try it now:** [https://toukoum.fr](https://toukoum.fr)  
+➡️ **Try it now:** [https://pratikkute.vercel.app/](https://pratikkute.vercel.app/)  
 *What will you ask?*
 
 ## 🚀 How to run
@@ -36,7 +33,7 @@ Want to run this project locally? Here's what you need:
 1. **Clone the repository**
    ```bash
    git clone <your-repo-url>
-   cd portfolio
+   cd <folder_name>
    ```
 
 2. **Install dependencies**
@@ -48,7 +45,6 @@ Want to run this project locally? Here's what you need:
    Create a `.env` file in the root directory:
    ```env
    OPENAI_API_KEY=your_openai_api_key_here
-   GITHUB_TOKEN=your_github_token_here
    ```
 
 4. **Run the development server**
@@ -61,10 +57,4 @@ Want to run this project locally? Here's what you need:
 
 ### Getting your **tokens**
 - **OpenAI API Key**: Get it from [platform.openai.com](https://platform.openai.com/api-keys)
-- **GitHub Token**: Generate one at [github.com/settings/tokens](https://github.com/settings/personal-access-tokens) with repo access
 
-
-
-#### 🔖 Tags
-
-`#AIPortfolio` `#InnovationInTech` `#DigitalResume` `#JobSearch` `#TechInnovation` `#WebDevelopment` `#FutureTech`
